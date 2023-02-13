@@ -1,0 +1,94 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: ;
+}
+.main_image{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: white; 
+}
+
+.doc_image{
+    display: flex;
+    
+    position:relative ;
+    
+    
+}
+.med_clinic{
+    margin:490px 0px 0px 220px;
+    position:absolute;
+    border:2px solid rgb(60, 112, 224);
+    width: 77%;
+    height: 230px; 
+    text-align: center;
+    padding: 10px; 
+    margin-bottom: 50%;
+    background-color: rgb(60, 112, 224);
+    border-radius: 100px 0px  100px 0px;
+}
+.m_text{
+   color: white;
+    font-size: 135px;
+    
+}
+.image{
+    border-radius: 0px 0px 150px 150px;
+}
+.u_text{
+    border: 2px solid aqua;
+    background-color: aqua;
+    text-align: center;
+    margin: 120px 0px 0px 320px;
+    width: 65%;
+}
+.m1_text{
+    color: white;
+    font-size: 75px;
+}
+.middle_part{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid red;
+    height: 251px;
+    width: 100%;
+
+}
+.dbl_quates
+{
+    font-size: 150px;
+    color: gray;  
+    position:absolute;  
+    
+}
+.about_us_text{
+    font-weight: 600;
+    font-size: 50px;
+    position: relative;
+    padding-top: 50px;
+}
+b{
+    font-weight: 900;
+    font-size: xx-large;
+    color: blue;
+    font-size: 100px;
+}
+#right_image{
+    
+    box-shadow: 15px 0px 0px red;
+    border-radius: 0px 0px 40px 0px;
+    padding-right:0%;
+    position:absolute;   
+}
+.content{
+    border-bottom:2px solid gray;
+   height: 120px;
+   width: 54%;
+   text-align: justify;
+   padding-left: 20px;
+}
