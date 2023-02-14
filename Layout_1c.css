@@ -126,5 +126,41 @@ pre{
     
 }
 .paragraph{
-    text-align: left;
+    text-align: ;
 }
+.bottom_image{
+    padding: 20px;
+    letter-spacing: 20px;
+  
+}
+#three_iamge{
+    border-radius: 50%;
+
+}
+.para{
+text-align: justify;
+letter-spacing: 3px;
+}
+#h_row{
+    width:100%;
+    height:2px;
+    border-width:2px;
+    color:gray;
+    background-color:gray
+}
+.contact{
+    letter-spacing: 5px;
+}
+.qr_code{
+    position: relative;
+    
+    width: 130px;
+    height: 130px;
+    margin-bottom:;
+    bottom: 70px;
+    left: 100px;
+    border-radius: 15px 0px 15px 0px;
+    border: 15px solid blue;
+    
+}
+
